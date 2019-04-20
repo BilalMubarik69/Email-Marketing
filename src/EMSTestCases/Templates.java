@@ -21,6 +21,7 @@ public class Templates extends EMS_Execution {
 
 	public static Actions act;
 	   
+	public static Actions act2;
 	public static WebElement Drag;
 	   
 	 public static WebElement Drop;
