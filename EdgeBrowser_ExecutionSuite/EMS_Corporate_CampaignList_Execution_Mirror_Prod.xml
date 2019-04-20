@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="CrossBrowserSuite" parallel="none">
+    
+<test name="EMS_Corporate_Execution Chrome">
+ 
+ <parameter name="browser" value="edge" />
+ 
+ <classes>
+ 
+ <class name="Master.EMS_Corporate_CampaignList_Execution_Prod"/> 
+  
+ 
+ </classes>
+ 
+ </test>
+ 
+</suite>

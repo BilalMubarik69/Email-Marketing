@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="CrossBrowserSuite" parallel="none">
+    
+<test name="EMS_Corporate_Execution Firefox">
+ 
+ <parameter name="browser" value="firefox" />
+ 
+ <classes>
+ 
+ <class name="Master.EMS_Corporate_Execution"/> 
+  
+ 
+ </classes>
+ 
+ </test>
+ 
+</suite>
